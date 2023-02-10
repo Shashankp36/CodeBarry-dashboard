@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeBarry-dashboard/static/css/main.9ad7c102.css",
+    "main.js": "/CodeBarry-dashboard/static/js/main.153c2977.js",
+    "index.html": "/CodeBarry-dashboard/index.html",
+    "main.9ad7c102.css.map": "/CodeBarry-dashboard/static/css/main.9ad7c102.css.map",
+    "main.153c2977.js.map": "/CodeBarry-dashboard/static/js/main.153c2977.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ad7c102.css",
+    "static/js/main.153c2977.js"
+  ]
+}
