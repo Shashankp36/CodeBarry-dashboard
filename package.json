@@ -1,6 +1,6 @@
 {
   "homepage": " https://shashankp36.github.io/CodeBarry-dashboard",
-  "name": "admin",
+  "name": "admin-dashboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
